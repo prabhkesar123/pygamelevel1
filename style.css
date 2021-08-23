@@ -1,0 +1,28 @@
+body{
+    background-color: #193549;
+    color: white;
+    font-family: 'INDIE FLOWER', cursive;
+}
+.upperhead{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    transition: 0.1s;
+    margin-top: 250px;
+    
+    
+}
+.upperhead:hover{
+    color: #193549;
+    
+}
+.para{
+    text-align: center;
+    font-size: 30px;
+ 
+}
+.para2{
+    padding-top: 211px;
+    font-size: 8px;
+}
